@@ -11,11 +11,18 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
-
+ul{
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  width:200px;
+}
 li {
  float: left;
 }
- a{ 
+ a{
+   color: black;
+   text-decoration:none;
    display:block;
    padding: 8px;
    background-color:lightslategray;

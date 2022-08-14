@@ -10,29 +10,18 @@
 <!-- The grid: four columns -->
 <div class="row">
   <div class="column">
-    <img src="/inventory/Elf 1.png" alt="Nature" onclick="myFunction(this);">
+    <img src="inventory/Elf 1.png">
   </div>
   <div class="column">
-    <img src="/inventory/Elf 2.png" alt="Snow" onclick="myFunction(this);">
+    <img src="inventory/Elf 2.png">
   </div>
   <div class="column">
-    <img src="/inventory/Elf 3.png" alt="Mountains" onclick="myFunction(this);">
+    <img src="inventory/Elf 3.png" >
   </div>
   <div class="column">
-    <img src="/inventory/Elf 4.png" alt="Lights" onclick="myFunction(this);">
+    <img src="inventory/Elf 4.png">
   </div>
 </div>
 
-<!-- The expanding image container -->
-<div class="container">
-  <!-- Close the image -->
-  <span onclick="this.parentElement.style.display='none'" class="closebtn">&times;</span>
-
-  <!-- Expanded image -->
-  <img id="expandedImg" style="width:100%">
-
-  <!-- Image text -->
-  <div id="imgtext"></div>
-</div>
 </body>
 </html>

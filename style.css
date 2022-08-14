@@ -1,0 +1,19 @@
+body {
+  background-color: lightsteelblue;
+}
+
+h1,h2,h3 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+li {
+  color: black;
+  font-family: comic sans;
+  font-size 30px;
+}

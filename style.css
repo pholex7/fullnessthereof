@@ -2,6 +2,16 @@ body {
   background-color: lightsteelblue;
 }
 
+
+.header {
+  Color:white;
+  font: lucia handwriting;
+  padding: 30px;
+  font-size: 40px;
+  text-align: center;
+  background: lightslategray;
+}
+
 h1,h2,h3 {
   color: white;
   text-align: center;
